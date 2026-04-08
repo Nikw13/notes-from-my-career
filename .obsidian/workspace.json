@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "20a299e2574da707",
+        "id": "b6e8c91a1fd9aad2",
         "type": "tabs",
         "children": [
           {
-            "id": "92cd465d1fa96697",
+            "id": "6504f92d19da127e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT.md",
+                "file": "LINUX/LINUX ENFOCADO A LA CIBERSEGURIDAD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GIT"
-            }
-          },
-          {
-            "id": "f9231bcefc06a8e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GIT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GIT"
+              "title": "LINUX ENFOCADO A LA CIBERSEGURIDAD"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,10 +169,19 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "f9231bcefc06a8e0",
+  "active": "6504f92d19da127e",
   "lastOpenFiles": [
-    "git.md.md",
+    "LINUX.md",
+    "LINUX/LINUX ENFOCADO A LA CIBERSEGURIDAD.md",
+    "LINUX",
+    "colon irritado.md",
+    "ARQUITECTURA ADO.net.md",
+    "FISICA.md",
+    "Pasted image 20260226164856.png",
+    "SQL.md",
+    "CSS.md",
     "GIT.md",
+    "git.md.md",
     "git"
   ]
 }
